@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "nombre": "VOLANTEXRC RC Plane 3 Channel Remote Control Airplane Fighter Toys,",
+        "precio": 59.0,
+        "stock": 52,
+        "imagen": " https://m.media-amazon.com/images/I/61f2MX7fezL._AC_SX425_.jpg",
+        "categoria": "clasico"
+    },
+    {
+        "id": 2,
+        "nombre": "VOLANTEXRC RC Plane 3 Channel Remote Control Airplane Fighter Toys",
+        "precio": 65.99,
+        "stock": 63,
+        "imagen": " https://m.media-amazon.com/images/I/61OsMbGHGYL._AC_SX425_.jpg",
+        "categoria": "clasico"
+    },
+    {
+        "id": 3,
+        "nombre": "F35 2 CH Fighter RC Airplane - 2.4GHz Remote Control Plane Fighter Toys",
+        "precio": 52.49,
+        "stock": 55,
+        "imagen": " https://m.media-amazon.com/images/I/71FPdHqtqgL.__AC_SX300_SY300_QL70_FMwebp_.jpg ",
+        "categoria": "militar"
+    },
+    {
+        "id": 4,
+        "nombre": "VOLANTEXRC RC Plane 3 Channel Remote Control Airplane Fighter Toys",
+        "precio": 69.0,
+        "stock": 40,
+        "imagen": "https://m.media-amazon.com/images/I/71oL11nTQ5L._AC_SL1500_.jpg",
+        "categoria": "militar"
+    },
+    {
+        "id": 5,
+        "nombre": "Diecast Fighter Jet Toy Military Falcon",
+        "precio": 42.0,
+        "stock": 44,
+        "imagen": " https://m.media-amazon.com/images/I/6178ii2ZgyL._AC_UL320_.jpg",
+        "categoria": "militar"
+    },
+    {
+        "id": 6,
+        "nombre": "24-Hours The New American B777 Alloy Metal Model Aircraft",
+        "precio": 100.5,
+        "stock": 22,
+        "imagen": " https://m.media-amazon.com/images/I/61f8a8Zgm3L._AC_UF480,480_SR480,480_.jpg ",
+        "categoria": "comercial"
+    }
+    
+    
+    
+]

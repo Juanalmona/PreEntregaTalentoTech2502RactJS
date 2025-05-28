@@ -1,0 +1,31 @@
+nav{
+    background-color: #b3a8a8;
+    color: wheat;
+    padding: 10px;
+}
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.link{
+    color: rgb(226, 226, 241);
+    text-decoration: none;
+}
+footer {
+    background-color: #b3a8a8;
+    padding: 10px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.btnCart{
+    background-color: transparent;
+    border: none;
+}
+
+.fa-cart-shopping{
+    color: red;
+}
