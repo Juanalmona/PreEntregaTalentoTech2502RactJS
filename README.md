@@ -1,6 +1,6 @@
 # Mi Proyecto
 
-Instalar React Vite:
+Creaar Proyecot con  Vite :
 
 npm create vite@latest
 
