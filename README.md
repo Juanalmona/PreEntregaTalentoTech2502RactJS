@@ -1,6 +1,6 @@
 # Mi Proyecto
 
-Creaar Proyecot con  Vite :
+Crear Proyecot con  Vite :
 
 npm create vite@latest
 
