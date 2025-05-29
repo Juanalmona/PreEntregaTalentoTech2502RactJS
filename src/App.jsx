@@ -29,7 +29,6 @@ function App() {
       }, 3000);
     })
     .catch(error => {
-      console.log('Error', error)
       setCargando(false)
       setError(true)
     })
