@@ -30,9 +30,9 @@
 }
 
 .product-item {
-    display: block; /* o flex con dirección en columna */
+    display: block; 
     width: 100%;
-    margin-bottom: 12px; /* espacio entre productos */
+    margin-bottom: 12px; 
 }
 
 .product-item > * {
