@@ -2,7 +2,6 @@ import React from "react";
 import { useParams } from "react-router-dom";
 
 const DetallesProductos = ({productos}) => {
-    console.log(productos)
     const {id} = useParams()
     const product = productos.find(producto => producto.id == id)
 
